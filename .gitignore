@@ -8,6 +8,9 @@ Models/*.keras
 Datasets/*
 !Datasets/README.md
 
+anaconda_projects/
+*.db
+
 .venv/
 venv/
 env/
